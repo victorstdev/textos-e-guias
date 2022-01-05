@@ -20,6 +20,10 @@ Bloquear campo do Operador
 Bloquear campo prensa em outras etapas que não a prensa
 Ter que fazer a sequencia
 
-## Tela Lançar Resultado
+## Lançar Resultado
 - Limpar campo de resultado e conformidade ao clicar em limpar
 - Sumir com a carga e pedido quando medidas forem inseridas
+
+## Lançar Contra Verificação
+- Conforme está preto
+- Tolerancia não bate com a medida
