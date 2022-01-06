@@ -14,4 +14,11 @@
 ## Tela Resultados
 1. Ordem de exibição
     - Série, Medidas, Tolerâncias e Resultados - **OK**
-2. Criar tela de display com filtros dos relatórios
+2. Criar tela de display com filtros dos relatórios - **OK**
+3. Tela de Editar Resultado
+4. Cadastrar resultados CTNC
+ - 
+5. Ocultar Excluir pra quem nao for tecnico
+6. Ao inserir um novo produto, já levar pra pagina de cadastrar medidas
+7. Formulário de verificar por série
+8. Campo de pesquisar produto na lista de pedidos
