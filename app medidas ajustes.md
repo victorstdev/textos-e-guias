@@ -1,19 +1,17 @@
 # Cliente
-- Opção de excluir pedido
-    - Ou desabilitar o botão de solicitar medidas
-    - Ou mensagem de aviso pra indicar uma carga
-- Quando inputa mais de uma carga, solicitar medida unica não aparece
+- Opção de excluir pedido - **OK**
+- Quando inputa mais de uma carga, solicitar medida única não aparece - **OK**
 - Opção de editar pedido devolvido
 
 # Laboratório
 ---
 ## Recebimento
-- Apresentar quantidade de cargas nos pendentes
-- Ver as cargas num dropdown
+- Apresentar quantidade de cargas nos pendentes - **OK**
+- Ver as cargas num dropdown - **OK**
 - Criar tela de devolução de pedido
-- Caso devolvido, cliente editar o pedido
-- Criar confirmação de impressao ao confirmar recebimento
-- Criar botao de imprimir pedido
+- Caso devolvido, cliente editar o pedido ou criar novo - **OK**
+- Criar confirmação de impressão ao confirmar recebimento - **OK**
+- Criar botao de imprimir pedido - **OK**
 
 ## Lançar Rastreabilidade
 Bloquear campo do Operador
