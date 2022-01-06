@@ -1,7 +1,7 @@
 # Cliente
 - Opção de excluir pedido - **OK**
 - Quando inputa mais de uma carga, solicitar medida única não aparece - **OK**
-- Opção de editar pedido devolvido
+- Opção de editar pedido devolvido - **Depende do que vai editar**
 
 # Laboratório
 ---
@@ -14,14 +14,14 @@
 - Criar botao de imprimir pedido - **OK**
 
 ## Lançar Rastreabilidade
-Bloquear campo do Operador
+Bloquear campo do Operador - **OK**
 Bloquear campo prensa em outras etapas que não a prensa
 Ter que fazer a sequencia
 
 ## Lançar Resultado
-- Limpar campo de resultado e conformidade ao clicar em limpar
+- Limpar campo de resultado e conformidade ao salvar - **OK**
 - Sumir com a carga e pedido quando medidas forem inseridas
 
 ## Lançar Contra Verificação
-- Conforme está preto
+- Conforme está preto - **OK**
 - Tolerancia não bate com a medida
